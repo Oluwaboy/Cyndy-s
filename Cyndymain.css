@@ -36,7 +36,7 @@ body {
 }
 
 #header { 
- background: url("Cindy/tds.jpg") top/cover no-repeat;
+ background: url("tds.jpg") top/cover no-repeat;
 }
 
 .btn:not( .nav-btns button ) {
